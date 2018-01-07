@@ -10,5 +10,6 @@ const processData(input) => {
         return acc;
     }, []);
 
+console.log('but');
     console.log(input)
 }
