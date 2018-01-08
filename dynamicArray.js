@@ -10,6 +10,6 @@ const processData(input) => {
         return acc;
     }, []);
 
-console.log('but');
+//I'm going to need to actually work on some of these at some point
     console.log(input)
 }
