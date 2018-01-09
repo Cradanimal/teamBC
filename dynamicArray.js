@@ -11,5 +11,6 @@ const processData(input) => {
     }, []);
 
 //I'm going to need to actually work on some of these at some point
+// but not rn
     console.log(input)
 }
