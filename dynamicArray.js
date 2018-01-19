@@ -15,5 +15,6 @@ const processData(input) => {
 // but for real
 // shift
 // need to hit codeTriage lol
+//beast
     console.log(input)
 }
